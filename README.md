@@ -7,3 +7,6 @@
 
 主程式為 `teste.py`，其他檔案則為使用 NSIS 打包的程式檔案。
 如果要安裝，請執行 `install 英to中轉換_1.0.exe`。
+
+參考資料來自 [http://seesawworld.blogspot.com/2016/02/1-nsis.html](http://seesawworld.blogspot.com/2016/02/1-nsis.html)
+圖片來自 [https://unsplash.com/](https://unsplash.com/) [https://www.iconfinder.com/](https://www.iconfinder.com/)
