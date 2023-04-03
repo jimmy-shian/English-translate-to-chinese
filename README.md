@@ -12,4 +12,4 @@
 圖片來自 [https://unsplash.com/](https://unsplash.com/) [https://www.iconfinder.com/](https://www.iconfinder.com/)
 
 
-![我的圖片](English-translate-to-chinese/resource/github.ico)
+![我的圖片](resource/github.ico)
